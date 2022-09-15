@@ -2,7 +2,7 @@ function logar() {
     let user = document.getElementById('log').value;
     let passw = document.getElementById('pw').value;
 
-    if (condition) {
+    if (user == "" || passw) {
 
     } else {
 
