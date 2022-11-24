@@ -23,7 +23,7 @@
             <input type="tel" name="tel" id="tel" placeholder="XX XXXX-XXXX">
         </div>
         <div class="butoes">
-            <input type="submit" value="se matar" onclick="registrar();">
+            <input type="submit" value="se matar" onclick="registrar();"    >
             <input type="button" value="Receber Código" onclick="rCodigo();">
             <input type="button" value="Validar Código" href="#">
         </div>
